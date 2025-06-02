@@ -1,0 +1,77 @@
+/* Basic Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f8ff;
+  color: #333;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  background-color: #2e8b57;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+/* Main content */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Sections */
+section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: #2e8b57;
+  margin-bottom: 10px;
+}
+
+/* List styling */
+#benefits ul {
+  list-style-type: square;
+  margin-left: 20px;
+  color: #555;
+}
+
+/* Blockquotes */
+blockquote {
+  font-style: italic;
+  margin: 20px 0;
+  padding: 15px 20px;
+  background-color: #e6f2ff;
+  border-left: 6px solid #2e8b57;
+  border-radius: 3px;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #666;
+  border-top: 1px solid #ccc;
+  margin-top: 40px;
+}
