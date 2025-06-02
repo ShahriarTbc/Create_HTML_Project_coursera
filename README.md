@@ -4,7 +4,7 @@ This project is a simple, responsive HTML and CSS website that introduces the co
 
 ## Live Demo
 
-- **Live View:** [Open in Browser](http://127.0.0.1:4077/index.html)
+- **Live View:** [Open in Browser](https://ShahriarTbc.github.io/Create_HTML_Project_coursera)
 - **Mobile Screenshot:**
   
   ![Mobile View](Screenshot.png)
@@ -42,7 +42,7 @@ This project demonstrates the basics of web development using only HTML and CSS.
 
 ## Author
 
-- **Shahriar Ahammed**
+- **Shariar Ahamed**
 - [GitHub Repository](https://github.com/ShahriarTbc/Create_HTML_Project_coursera)
 
 ## License
